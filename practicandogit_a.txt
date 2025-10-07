@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 “esta es
 una nueva linea local”
+=======
+esta es una nueva linea remota
+>>>>>>> 87a547a636bdff95d6baff264822da41c2b8bdd7
